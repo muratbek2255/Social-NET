@@ -8,3 +8,4 @@ Social-NET Django
 Python >= 3.9
 Django Rest Framework
 Postgres
+Docker

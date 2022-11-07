@@ -1,11 +1,11 @@
-# Social-NET
-Social-NET Django
-Социальная сеть на Django Rest Framework.
-Этот проект сделан в учебных целях и с помощью Django School https://youtu.be/EHGJuSERX9o
+# Social network
+Django social network
+Social network on Django Rest Framework.
+This project is made in scientific research and with the help of Django School https://youtu.be/EHGJuSERX9o
 
-Стек:
+Stack:
 
 Python >= 3.9
 Django Rest Framework
-Postgres
+postgres
 Docker
